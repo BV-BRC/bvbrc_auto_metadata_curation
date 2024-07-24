@@ -1,6 +1,6 @@
 #Description: This script reads a CSV file containing Biosample geographic location and Genbank geographic Location columns, and
 # curates the geographic locations for BV-BRC
-#By Abril
+
 
 
 
