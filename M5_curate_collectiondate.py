@@ -1,6 +1,6 @@
 # Description: This script reads a CSV file containing Biosample Collection Date and Genbank Collection Date columns, and
 # curates the collection dates
-#By Abril
+
 
 import csv
 from datetime import datetime
