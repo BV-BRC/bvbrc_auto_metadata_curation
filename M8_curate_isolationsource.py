@@ -1,3 +1,5 @@
+# Curates the isolation source metadata field
+
 import pandas as pd
 import M2_keyword_match as keyword_match
 import M3_host_annotation as Host_Annotation
